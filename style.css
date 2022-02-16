@@ -42,7 +42,8 @@ body{
     transition: all linear 0.5s;
 }
 .item{
-    height: 150px;   
+    height: 150px; 
+    text-transform: capitalize;  
 }
 .img-fit{
     object-fit: cover;
